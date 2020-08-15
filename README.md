@@ -3,13 +3,24 @@
 This repo serves as a base for using [my postmarketOS installer](https://gitlab.com/sdm845-mainline/pmtools/-/blob/master/makeinstaller.sh), it's the place to go for releases and to track any issues.
 
 # Instructions
-BEFORE downloading and flashing please get acquinted with [the wiki page](https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)), specifically note the available features table and the issues section.
+
+# IMPORTANT
+
+* BEFORE downloading and flashing please get acquinted with [the wiki page](https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)), specifically note the available features table and the issues section.
 
 **POSTMARKETOS HAS MANY MISSING FEATURES AND IS NOT SUITABLE FOR DAILY USAGE, THIS ZIP IS FOR TESTING/DEVELOPMENT PURPOSES ONLY**
 
-The battery reporting is broken, do not leave your device unplugged for too long as it will drain the battery and you won't know how much charge is left.
+* The battery reporting is broken, do not leave your device unplugged for too long as it will drain the battery and you won't know how much charge is left.
+
+* The device may occasionally boot into crashdump mode shortly after reaching UI, this is a known issue and is most likely caused by some memory being allocated that should be reserved for the modem.
+
+* The display on fajita seems to not turn back on when turned off with the power button, fix in progress
+
+## Download
 
 The latest release will always be available here: https://build.connolly.tech/postmarketOS/Release.
+
+# Install
 
 You can rename the file to pick which slot to flash to, find out your currently active slot by checking the reboot menu in TWRP. It is recommendable to flash to the inactive slot so that you can return to Android by simply switching back. Available slots are: ["a", "b"].
 
