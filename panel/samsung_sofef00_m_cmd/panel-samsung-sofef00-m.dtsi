@@ -1,0 +1,19 @@
+&dsi0 {
+	panel@0 {
+		compatible = "samsung,sofef00-m";
+		reg = <0>;
+
+		reset-gpios = <&msmgpio XY GPIO_ACTIVE_LOW>;
+
+		port {
+			panel_in: endpoint {
+				remote-endpoint = <&dsi0_out>;
+			};
+		};
+	};
+};
+
+&dsi0_out {
+	data-lanes = <0 1 2 3>;
+	remote-endpoint = <&panel_in>;
+};

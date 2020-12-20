@@ -1,0 +1,1 @@
+{"tcs3400_platform.als":{"owner":"sns_tcs3400","fac_cal":{"type":"grp","ver":"0","data":""}}}
