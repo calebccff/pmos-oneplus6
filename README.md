@@ -27,11 +27,16 @@ Simply boot into TWRP, flash the zip and reboot, the installer will automaticall
 
 > **PLEASE NOTE:** You can NOT install TWRP or any custom recovery on the slot running postmarketOS, it will not boot due to modifications made by the installer, it will also break postmarketOS.
 
+## Login
+
+Username: `user`<br>
+Password: `1234`.
+
+You can change both of these in settings. Note that you won't be able to unlock the device if you use a non-numeric password.
+
 ## postmarketOS
 
 In the future, I hope to be able to make use of the postmarketOS setup which will allow you to pick your own username, password etc, however it curently doesn't work due to the nature of how my installer works.
-
-For now, the default username is `user` and the default password is `1234`, you can change both of these in settings. Note that you won't be able to unlock the device if you use a non-numeric password.
 
 ## Known issues
 
