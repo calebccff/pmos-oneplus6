@@ -1,10 +1,10 @@
 # postmarketOS for the OnePlus 6/T
 
-This repo serves as a base for using [my postmarketOS installer](https://gitlab.com/sdm845-mainline/pmtools/-/blob/master/makeinstaller.sh). It is designed to be an easy to use flashable zip to allow people to test out postmarketOS and contribute to userspace development WITHOUT having to have a powerful machine to compile the kernel and build their own image.
+[postmarketOS](https://postmarketOS.org) aims to be a completely free and Open Source Linux distro for mobile phones, here I release custom TWRP compatible zips for the OnePlus 6 and 6T to simplify the installation procedure and let you check out Mainline Linux on your phone!
 
-If you want to follow along with the development process, <a href="https://twitter.com/calebccff" class="twitter-follow-button" data-show-count="false">Follow @calebccff</a> on Twitter!
+If you want to stay up with the latest development, follow me on Twitter, and join the Discord!
 
-You can also [join the Discord server to chat and hang out :D](https://discord.gg/haVG9Ga)
+[![Twitter](https://img.shields.io/twitter/follow/calebccff?label=%40calebccff&style=flat)](https://twitter.com/calebccff) [![Discord](https://img.shields.io/discord/674261029265604610?label=Discord&style=flat)](https://discord.gg/haVG9Ga)
 
 
 ## Pictures
