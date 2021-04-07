@@ -58,6 +58,8 @@ fastboot --set-active=SLOT
 
 Where SLOT is the slot with android installed, that will be the opposite slot to the one in the zip file name.
 
+If your Android is **rooted** you can install the [Switch My Slot](https://github.com/gibcheesepuffs/Switch-My-Slot-Android) app to switch to postmarketOS without PC.
+
 If you wish to keep your postmarketOS install, make sure not to flash any updates from Android as they will overwrite it.
 
 # Creating an issue
