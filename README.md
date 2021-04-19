@@ -4,7 +4,7 @@
 
 If you want to stay up with the latest development, follow me on Twitter, and join the Discord!
 
-[![Twitter](https://img.shields.io/twitter/follow/calebccff?label=%40calebccff&style=flat)](https://twitter.com/calebccff) [![Discord](https://img.shields.io/discord/674261029265604610?label=Discord&style=flat)](https://discord.gg/haVG9Ga)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&label=%40calebccff&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/calebccff)](https://twitter.com/calebccff) [![Discord](https://img.shields.io/discord/674261029265604610?label=Discord&style=flat-square&labelColor=7289da)](https://discord.gg/haVG9Ga)
 
 
 ## Pictures
@@ -15,9 +15,9 @@ If you want to stay up with the latest development, follow me on Twitter, and jo
 
 # Important Info
 
-BEFORE downloading and flashing please get acquainted with [the wiki page](https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)), specifically note the available features table and the issues section.
+BEFORE downloading and flashing please READ THE REST OF THIS README, also acquainted with [the wiki page](https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)), specifically note the available features table and the issues section.
 
-**PostmarketOS for this device is missing a lot of important features, this build it meant for testing and development only**
+**These builds are for testing and development and are not expected to be stable**
 # Instructions
 
 ## Download
@@ -41,7 +41,7 @@ You can change both of these in settings. Note that you won't be able to unlock 
 
 ## postmarketOS
 
-In the future, I hope to be able to make use of the postmarketOS setup which will allow you to pick your own username, password etc, however it curently doesn't work due to the nature of how my installer works.
+In the future, I hope to be able to make use of the postmarketOS setup which will allow you to pick your own username, password etc, however it curently doesn't support Android devices, we're hoping to change this in the future [(#3)](https://gitlab.com/sdm845-mainline/pmos-installer/-/issues/3).
 
 ## Known issues
 
