@@ -6,6 +6,7 @@ If you want to stay up with the latest development, follow me on Twitter, and jo
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&label=%40calebccff&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/calebccff)](https://twitter.com/calebccff) [![Discord](https://img.shields.io/discord/674261029265604610?label=Discord&style=flat-square&labelColor=7289da)](https://discord.gg/haVG9Ga)
 
+The discord is also bridged [to Telegram](https://t.me/linuxoneplus) and [to Matrix](https://matrix.to/#/#lop-general:connolly.tech).
 
 ## Pictures
 
