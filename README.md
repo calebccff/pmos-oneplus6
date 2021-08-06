@@ -1,5 +1,12 @@
 # postmarketOS for the OnePlus 6/T
 
+# This installation method is OUT OF DATE AND WILL NO LONGER BE RECOMMENDED. Please see the list of supported installation methods on the wiki
+https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)
+
+This flashable installer uses a custom initramfs, meaning any kernel updates after install WILL soft brick your device as the ramdisk is replaced. Please reach out if you're interesting in merging the installer and ramdisk capabilities (booting from an image) into the postmarketOS ramdisk!
+
+---
+
 [postmarketOS](https://postmarketOS.org) aims to be a completely free and Open Source Linux distro for mobile phones, here I release custom TWRP compatible zips for the OnePlus 6 and 6T to simplify the installation procedure and let you check out Mainline Linux on your phone!
 
 If you want to stay up with the latest development, follow me on Twitter, and join the Discord!
